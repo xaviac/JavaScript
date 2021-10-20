@@ -22,7 +22,8 @@ console.log(nombrecompleto);
 // Función y método es lo mismo.
 
 let x, y;
-x = 10, y = 20;
+x = 10;
+y = 20;
 let z = x + y;
 console.log(z);
 
